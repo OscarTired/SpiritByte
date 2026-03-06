@@ -82,8 +82,8 @@ python src/main.py
   - Can extract temporary runtime files internally
 
 > [!NOTE]
-> In personal testing, I did not notice a major real-world performance difference between both builds.
-> The included specs are configured for **PyInstaller**. If you want to package the app using `flet build` instead, you will need to adapt or replace them accordingly.
+> - In personal testing, I did not notice a major real-world performance difference between both builds.
+> - The included specs are configured for **PyInstaller**. If you want to package the app using `flet build` instead, you will need to adapt or replace them accordingly.
 
 > [!WARNING]
 > When running the `.exe`, Windows SmartScreen may show a security warning. This is expected — the executable is not code-signed. You can proceed by clicking **"More info" → "Run anyway"**.
