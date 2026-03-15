@@ -146,7 +146,7 @@ SpiritByte/
 > [!TIP]
 > I also plan to explore a future version built with other technologies, possibly Node-based, to combine robust security with a smoother desktop experience than Flet currently offers.
 
-<video src="https://github.com/OscarTired/SpiritByte/issues/1#issue-4079456695" controls width="600"></video>
+<video src="https://github.com/user-attachments/assets/da9f9f64-2080-42e6-a564-3ba29c3a4264" controls width="600"></video>
 
 <div align="center">
 <h2>License</h2>
